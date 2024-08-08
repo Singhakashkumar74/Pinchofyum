@@ -455,13 +455,13 @@
 .rate .fr::before {
     content: "";
     position: absolute;
-    height: 523px;
-    width: 290px;
+    height: 448px;
+    width: 300px;
 }
 
 .rate .fr:hover::before {
     background-color: #dbdbdb;
-    opacity: 0.1;
+    opacity: 0.5;
 }
 
 .rate .re {
